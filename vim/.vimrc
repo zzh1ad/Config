@@ -86,3 +86,7 @@ set ignorecase
 
 " 只有一个大写的搜索 大小写敏感
 set smartcase
+
+" 系统粘贴打通https://www.cnblogs.com/huahuayu/p/12235242.html
+set clipboard^=unnamed,unnamedplus
+
